@@ -10,7 +10,7 @@ This repository guides you through the process of building a GPT-style **Large L
 * **Author**: Sebastian Raschka
 * **Publisher**: Manning Publications
 * **Link**: [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-* **Resourse**: [Check the resource from where I learned.](utils/resources.md)
+* **Resource**: [Check the resource from where I learned.](utils/resources.md)
 
 ---
 
@@ -62,7 +62,7 @@ This repository guides you through the process of building a GPT-style **Large L
 ### Installation
 
 ```bash
-git clone https://github.com/codewithdark-git/Building-LLMs-from-scratch.git
+git clone https://github.com/ThedRk1607/Building-LLM-from-scratch.git
 cd Building-LLMs-from-scratch
 pip install -r requirements.txt
 ````
